@@ -1129,3 +1129,5 @@ const quotes = [
     topics: ['Inspirational', 'Wisdom'],
   },
 ];
+
+console.log(quotes[0]);
